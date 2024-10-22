@@ -1,0 +1,4 @@
+When you're working with a new branch in Git, the process to push changes involves a few steps, but you do not need to add the branch separately; you can commit your changes directly to the branch you created. Here’s how to do it:
+
+
+
