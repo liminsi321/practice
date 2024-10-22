@@ -1,0 +1,4 @@
+GitHub Website: Use the branch selector dropdown to create a new branch directly on GitHub.
+Command Line: Use git checkout -b <branch_name> to create and switch to a new branch, then git push -u origin <branch_name> to push it to GitHub.
+GitHub Desktop: Use the menu options to create a new branch graphically.
+Feel free to reach out if you have more questions or need further assistance!
